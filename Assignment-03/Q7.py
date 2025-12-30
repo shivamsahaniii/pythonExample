@@ -2,6 +2,7 @@
 
 sentence = input("Enter the sentence: ")
 count = 0
+
 for word in sentence:
     if (word == " "):
         count += 1
