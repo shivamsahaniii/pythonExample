@@ -4,9 +4,9 @@
 # • "Too low" if the guess is below
 # • "Correct!" if the guess matches
 
-
 # def guessNumer():
 #     num = 17
+
 #     while True:
 #         number = int(input("Enter the number: "))
 
